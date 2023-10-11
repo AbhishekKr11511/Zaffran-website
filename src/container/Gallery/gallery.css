@@ -1,0 +1,66 @@
+
+
+.app__gallery-container{
+    background: url('../../assets/colorful.png');
+    background-size:auto;
+    animation: animatedBg 10s ease-in-out infinite alternate both;
+}
+@keyframes animatedBg {
+  0% {
+    background-position: 0% 50%;
+  }
+  100% {
+    background-position: 100% 50%;
+  }
+}
+.app__gallery-content{
+    flex-direction: column;
+    text-align: center ;
+}
+.app__gallery-content p{
+    max-width: 50vw;
+}
+
+.app__gallery-photos{
+    margin: 1rem 0;
+}
+
+.app__gallery-grid{
+    display: grid;
+    justify-content: start;
+    grid-auto-flow: column;
+    gap: 1rem;
+    overflow-x: auto;
+    padding-bottom: 1rem;
+}
+
+.app__gallery-grid::-webkit-scrollbar{
+    height: 1rem;
+}
+.app__gallery-grid::-webkit-scrollbar-track{
+    background-color: var(--color-maroon);
+    border-radius: 1rem;
+}
+.app__gallery-grid::-webkit-scrollbar-thumb{
+    background-color: var(--color-orange);
+    border-radius: .5rem;
+}
+
+.app__gallery-grid:last-child{
+    margin-right: 1rem;
+}
+
+@media screen and (max-width : 1450px) {
+
+    .app__gallery-content p{
+        max-width: 60vw;
+    }
+
+}
+@media screen and (max-width : 850px) {
+
+    .app__gallery-content p{
+        max-width: 80vw;
+    }
+}
+

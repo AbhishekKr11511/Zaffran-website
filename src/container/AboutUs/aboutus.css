@@ -1,0 +1,94 @@
+.app__about{
+    background: url('../../assets/texture01\ .jpeg');
+    background-position: center;
+    background-size: cover;
+    
+}
+
+
+.app__about-container-content{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+.app__about-container-title{
+    padding-top: 4rem;
+}
+.app__about-container-title .start{
+    text-align: start;
+    padding: 3rem 0;
+    min-width: 50%;
+    max-width: 90%;
+    color: rgba(255, 255, 255, 0.75);
+}
+.app__about-container-title .end{
+    text-align: end;
+    padding: 3rem 0;
+    min-width: 50%;
+    max-width: 90%;
+    margin-left: auto;
+    color: rgba(255, 255, 255, 0.75);
+}
+.app__about-container-knife img{
+    width: 15rem;
+}
+
+
+
+@media screen and (min-width: 2200px) {
+    .app__about-container-knife img{
+        width: 28rem;
+    }
+}
+
+
+@media screen and (max-width: 1150px) {
+    .app__about-container-knife img{
+        width: 10rem;
+    }
+    .app__about-container-title{
+        padding-top: 3rem;
+    }
+    .app__about-container-title .start{
+        padding: 2rem 0;
+    }
+    .app__about-container-title .end{
+        padding: 2rem 0;
+    }
+}
+
+
+
+@media screen and (max-width: 650px) {
+
+    .app__about-container-knife img{
+        width: 6rem;
+    }
+    .app__about-container-title{
+        padding-top: 2rem;
+    }
+    .app__about-container-title .start{
+        padding: 1rem 0;
+    }
+    .app__about-container-title .end{
+        padding: 1rem 0;
+    }
+}
+
+@media screen and (max-width: 450px) {
+
+    .app__about-container-knife img{
+        width: 3rem;
+    }
+    .app__about-container-title{
+        padding-top: 1rem;
+    }
+    .app__about-container-title .start{
+        padding: 0.5rem 0;
+    }
+    .app__about-container-title .end{
+        padding: 0.5rem 0;
+    }
+
+}

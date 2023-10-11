@@ -1,0 +1,24 @@
+
+.app__video{
+    /* width: 1vw; */
+    position: relative;
+    border: groove var(--color-golden) 2rem;
+}
+.app__video video{
+    width: 100%;
+    object-fit: cover;
+}
+.app__video-overlay{
+    position: absolute;
+    inset: 0;
+    z-index: 1;
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.app__video-overlay-circle{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: white solid 1px;
+    cursor: pointer;
+}

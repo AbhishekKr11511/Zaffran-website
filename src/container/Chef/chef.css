@@ -1,0 +1,101 @@
+
+
+.app__chef{
+    background: url('../../assets/bg.png');
+    background-size: cover;
+    
+    display: flex;
+    align-items: center;
+}
+
+
+.app__chef-image img{
+    width: 100%;
+
+}
+.app__chef-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+    padding: 4rem;
+}
+
+.app__chef-content-paragraph p{
+    color: var(--color-grey);
+    font-size: 1.5rem;
+    font-style: italic;
+    font-family: var(--font-alt);
+    line-height: 2rem;
+}
+.app__chef-content-paragraph p > img{
+    padding: 1rem;
+}
+
+.app__chef-content-regards {
+    font-family: var(--font-base);
+    display: flex;
+    align-items: end;
+}
+.app__chef-content-regards-name{
+    color: var(--color-dark-golden);
+    font-size: 10ex;
+}
+.app__chef-content-regards-position{
+    color: var(--color-grey);
+    font-size: 5ex;
+}
+
+.app__chef-content-regards img{
+    width: 10rem;
+    padding: 0 1rem;
+}
+
+@media screen and (max-width : 1350px) {
+
+    .app__chef{
+        display: flex;
+        flex-direction: column;
+    }
+    .app__chef-content-paragraph p{
+        font-size: 1.3rem;
+        line-height: 1.8rem;
+    }
+    .app__chef-content-regards-name{
+        font-size: 8ex;
+    }
+    .app__chef-content-regards-position{
+        font-size: 4.5ex;
+    }
+    .app__chef-content-paragraph p > img{
+        width: 5rem;
+    }
+}
+@media screen and (max-width : 850px) {
+    .app__chef-content-paragraph p{
+        font-size: 1rem;
+        line-height: 1.5rem;
+    }
+    .app__chef-content-regards-name{
+        font-size: 5ex;
+    }
+    .app__chef-content-regards-position{
+        font-size: 4ex;
+    }
+    .app__chef-content-paragraph p > img{
+        width: 3rem;
+    }
+
+}
+@media screen and (max-width : 450px) {
+    .app__chef-content-paragraph p{
+        font-size: 0.75rem;
+        line-height: 1rem;
+    }
+    .app__chef-content-regards-name{
+        font-size: 3.5ex;
+    }
+    .app__chef-content-regards-position{
+        font-size: 3ex;
+    }
+}

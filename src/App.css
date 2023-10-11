@@ -1,0 +1,185 @@
+.section__padding{
+    padding: 4rem 4rem;
+}
+
+.flex__center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.flex__centerCol{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* This is the alernate background of the website at certain points */
+.app__bg{
+    background: url('./assets/bg\ with\ overlay.png');
+    background-position: center;
+    background-repeat: repeat-y;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.custom__button{
+    margin: 2rem 0;
+    background-color: var(--color-golden);
+    color: var(--color-black);
+    font-family: var(--font-base);
+    font-weight: 700;
+    letter-spacing: 1px;
+    line-height: 28px;
+    font-size: 1.5rem;
+    padding: 1rem 2rem;
+    border: none;
+    border-radius: 15px;
+    outline: none;
+    cursor: pointer;
+    transition: 0.5s;
+    text-align: center;
+}
+
+.custom__button:hover{
+    background-color: var(--color-dark-golden);
+    color: var(--color-maroon);
+    letter-spacing: 2px;
+    font-weight: bolder;
+    border-radius: 0;
+    color: var(--color-white);
+    box-shadow: 0px 0px 20px 10px rgba(245,239,219,0.5);
+}
+
+/* These are the font styles of the whole website */
+.p__cormorant {
+    font-family: var(--font-base);
+    color: var(--color-white);
+    font-weight: 700;
+    letter-spacing: 0.05em;
+    text-transform: capitalize;
+    font-feature-settings: 'tnum' on, 'lnum' on;
+    line-height: 29.9px;
+    font-size: 28px;
+}
+
+.p__opensans {
+    font-family: var(--font-alt);
+    color: var(--color-white);
+    font-weight: 400;
+    letter-spacing: 0.04em;
+    text-transform: capitalize;
+    line-height: 28px;
+    font-size: 20px;
+}
+.text__shadow{
+  text-shadow: 2px 3px 3px rgba(0, 0, 0, 1);
+}
+.headtext__cormorant {
+    font-family: var(--font-base);
+    color: var(--color-golden);
+    font-size: 84px;
+    letter-spacing: 0.04em;
+    font-weight: bolder;
+    text-transform: capitalize;
+    text-shadow: 0px 3px 2px rgba(143, 131, 88, 0.5);
+}
+
+
+
+@media screen and (min-width: 2200px) {
+  .custom__button,
+  .p__cormorant {
+    font-size: 40px;
+    line-height: 67px;
+  }
+
+  .p__opensans {
+    font-size: 35px;
+    line-height: 50px;
+  }
+
+  .headtext__cormorant {
+    font-size: 150px;
+  }
+
+  .spoon__img {
+    width: 80px;
+  }
+}
+
+@media screen and (max-width: 1150px) {
+
+
+  .app__wrapper {
+    flex-direction: column;
+  }
+
+  .app__wrapper_img {
+    margin: 5rem 0 0 0;
+  }
+
+  .app__wrapper_img-reverse {
+    margin: 0 0 5rem 0;
+  }
+
+  .app__wrapper_img img {
+    width: 100%;
+  }
+  .headtext__cormorant {
+    font-size: 48px;
+}
+.custom__button{
+  margin: 0.5rem;
+  font-family: var(--font-base);
+  font-weight: 700;
+  line-height: 20px;
+  font-size: 1rem;
+  padding: 0.5rem 1rem;
+}
+}
+
+@media screen and (max-width: 850px) {
+  .section__padding {
+    padding: 2rem;
+  }
+  .p__cormorant {
+    font-size: 28px;
+  }
+  .p__opensans{
+    font-size: 16px;
+    line-height: 22px;
+  }
+}
+
+@media screen and (max-width: 650px) {
+  .section__padding {
+    padding: 1rem;
+  }
+  
+  .p__cormorant {
+    font-size: 21px;
+  }
+
+  .p__opensans {
+    font-size: 14px;
+    line-height: 20px;
+  }
+  .headtext__cormorant {
+    font-size: 36px;
+}
+}
+
+@media screen and (max-width: 450px) {
+  .p__opensans {
+    font-size: 12px;
+    line-height: 18px;
+  }
+
+  .p__cormorant {
+    font-size: 19px;
+  }
+
+  .headtext__cormorant {
+    font-size: 24px;
+  }
+}

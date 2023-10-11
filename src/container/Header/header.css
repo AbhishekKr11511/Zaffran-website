@@ -1,0 +1,22 @@
+
+.app__header{
+    background: url('../../assets/Header\ BG.png');
+    height: calc(100vw *0.375);
+    background-position: fixed;
+    background-size: cover;
+    animation:fade-in 1s cubic-bezier(.39,.575,.565,1.000) both;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+@keyframes fade-in{0%{opacity:0}100%{opacity:1}}
+
+.app__header-container{
+    color: var(--color-white);
+    font-family: var(--font-heading);
+    font-size: 7vw;
+    text-align: center;
+    text-shadow: 0px 10px 5px rgba(0, 0, 0, 0.8);
+}

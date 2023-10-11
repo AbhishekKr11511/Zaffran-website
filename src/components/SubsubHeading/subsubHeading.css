@@ -1,0 +1,19 @@
+
+
+.app__subsubheading{
+    display: flex;
+    flex-direction: column;
+}
+.app__subsubheading img{
+    padding: 5px 0;
+}
+
+#start{
+    align-items: start;
+}
+#center{
+    align-items: center;
+}
+#end{
+    align-items: end;
+}
