@@ -26,8 +26,12 @@ Indulge in a culinary journey like no other at our fine dining restaurant, where
 
 
 ### Featured Awards and Chef's Word 🏆 👩‍🍳
-<img src="/src/assets/thumbs/3.jpg" alt="Image 1">
-<img src="/src/assets/thumbs/5.jpg" alt="Image 1">
+<table>
+  <tr>
+    <td><img src="/src/assets/thumbs/3.jpg" alt="Image 1"></td>
+    <td><img src="/src/assets/thumbs/5.jpg" alt="Image 1"></td>
+ </tr>
+</table>
 
 
 ### Have a Look at Our mouth watering Delicacies. 🍝🥘
@@ -38,7 +42,7 @@ Indulge in a culinary journey like no other at our fine dining restaurant, where
 <table>
   <tr>
     <td><img src="/src/assets/logos/react.png" alt="Image a"></td>
-    <td><img src="/src/assets/logos/figma.png" alt="Image a"></td>
+    <td><img src="/src/assets/logos/figma .png" alt="Image b"></td>
     <td><img src="/src/assets/logos/creative.png" alt="Image a"></td>
   </tr>
 </table>
