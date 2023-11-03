@@ -1,22 +1,15 @@
 # Zaffran - Taste the Indo-Persian Fusion
 
-<table>
-  <tr>
-    <td><img src="/src/Assets/thumbs/1.png" alt="Image 1"></td>
-    <td><img src="/src/Assets/thumbs/2.png" alt="Image 2"></td>
-  </tr>
-  <tr>
-    <td><img src="/src/Assets/thumbs/3.png" alt="Image 3"></td>
-    <td><img src="/src/Assets/thumbs/5.png" alt="Image 4"></td>
-  </tr>
-</table>
+<img src="/src/assets/thumbs/Zaffran.png" alt="Image 1">
 
 
-## What is Cyber Assets ⚙ 🤔?
 
-Write your info here
 
-## Features
+## Visit Now in Your City 😍🤤?
+
+Indulge in a culinary journey like no other at our fine dining restaurant, where the flavors of India and Persia unite in a harmonious fusion. Experience the rich tapestry of tastes and umami that define these exquisite cuisines, all in one exquisite setting. Adorned with prestigious awards and captivating images of our restaurant and delectable dishes, our website offers a tantalizing preview of what awaits. Explore the daily delights on our 'Today's Special' menu, and stay connected with us through our Instagram link. Plus, don't miss the chance to join our inner circle by subscribing to our newsletter at the bottom of the page. Savor the extraordinary at our Indian-Persian haven.
+
+## What is New ? 
 <ul>
   <li>Feature 1</li>
   <li>Feature 2</li>
