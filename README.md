@@ -4,73 +4,41 @@
 
 
 
-
 ## Visit Now in Your City 😍🤤?
 
 Indulge in a culinary journey like no other at our fine dining restaurant, where the flavors of India and Persia unite in a harmonious fusion. Experience the rich tapestry of tastes and umami that define these exquisite cuisines, all in one exquisite setting. Adorned with prestigious awards and captivating images of our restaurant and delectable dishes, our website offers a tantalizing preview of what awaits. Explore the daily delights on our 'Today's Special' menu, and stay connected with us through our Instagram link. Plus, don't miss the chance to join our inner circle by subscribing to our newsletter at the bottom of the page. Savor the extraordinary at our Indian-Persian haven.
 
-## What is New ? 
+## What is New 🍽? 
 <ul>
-  <li>Feature 1</li>
-  <li>Feature 2</li>
-  <li>Feature 3</li>
+  <li>A New Taste in the Culinary Industry</li>
+  <li>Experience the exquisite Ambience</li>
+  <li>Taste our ever evloving Chef's Specials</li>
+  <li>Subscribe to our Newsletter</li>
 </ul>
 
 <!-- This is where to explore about the features further:  -->
 
-### Feature 1
-<table>
-  <tr>
-    <td><img src="/src/Assets/thumbs/a.png" alt="Image a"></td>
-    <td><img src="/src/Assets/thumbs/c.png" alt="Image c"></td>
-  </tr>
-</table>
+### Visit Today 🤩 
+<img src="/src/assets/thumbs/1.jpg" alt="Image 1">
+
+### Our Special Fusion Drinks 🍸🍹
+<img src="/src/assets/thumbs/2.jpg" alt="Image 1">
 
 
-### Feature 2
-<table>
-  <tr>
-    <td><img src="/src/Assets/thumbs/e.png" alt="Image e"></td>
-    <td><img src="/src/Assets/thumbs/d.png" alt="Image d"></td>
-  </tr>
-</table>
+### Featured Awards and Chef's Word 🏆 👩‍🍳
+<img src="/src/assets/thumbs/3.jpg" alt="Image 1">
+<img src="/src/assets/thumbs/5.jpg" alt="Image 1">
 
 
-### Feature 3
-<table>
-  <tr>
-    <td><img src="/src/Assets/thumbs/b.png" alt="Image b"></td>
-  </tr>
-  <tr>
-    <td><img src="/src/Assets/thumbs/7.png" alt="Image 7"></td>
-  </tr>
-</table>
-
-
-### Other Features
-<table>
-  <tr>
-    <td><img src="/src/Assets/thumbs/5.png" alt="Image 5"></td>
-    <td><img src="/src/Assets/thumbs/6.jpg" alt="Image 6"></td>
-  </tr>
-</table>
+### Have a Look at Our mouth watering Delicacies. 🍝🥘
+<img src="/src/assets/thumbs/4.jpg" alt="Image 1">
+<img src="/src/assets/thumbs/6.jpg" alt="Image 1">
 
 ## Technologies Used 🌌
 <table>
   <tr>
-    <td><img src="/src/Assets/logos/react.png" alt="Image a"></td>
-    <td><img src="/src/Assets/logos/redux.png" alt="Image a"></td>
-    <td><img src="/src/Assets/logos/router.png" alt="Image a"></td>
-    <td><img src="/src/Assets/logos/ant.png" alt="Image a"></td>
-    <td><img src="/src/Assets/logos/rapid api.png" alt="Image a"></td>
+    <td><img src="/src/assets/logos/react.png" alt="Image a"></td>
+    <td><img src="/src/assets/logos/figma.png" alt="Image a"></td>
+    <td><img src="/src/assets/logos/creative.png" alt="Image a"></td>
   </tr>
 </table>
-
-
-### Additional Dependencies Used 🌠☄
-<ul>
-  <li>Axios - For Fetching data</li>
-  <li>Chart.js - For Chart depiction</li>
-  <li>Dayjs - For fetching the Date and Time</li>
-  <li>Millify - For formatting large numbers in readable format</li>
-</ul>
