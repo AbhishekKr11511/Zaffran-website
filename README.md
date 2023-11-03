@@ -30,13 +30,33 @@ Indulge in a culinary journey like no other at our fine dining restaurant, where
   <tr>
     <td><img src="/src/assets/thumbs/3.jpg" alt="Image 1"></td>
     <td><img src="/src/assets/thumbs/5.jpg" alt="Image 1"></td>
- </tr>
+  </tr>
 </table>
 
 
 ### Have a Look at Our mouth watering Delicacies. 🍝🥘
 <img src="/src/assets/thumbs/4.jpg" alt="Image 1">
 <img src="/src/assets/thumbs/6.jpg" alt="Image 1">
+
+## Mobile Responsive 💻➡📱
+
+<table>
+  <tr>
+    <td><img src="/src/assets/thumbs/m1.png" alt="Image 1"></td>
+    <td><img src="/src/assets/thumbs/m4.png" alt="Image 1"></td>
+    <td><img src="/src/assets/thumbs/m2.png" alt="Image 1"></td>
+  </tr>
+  <tr>
+    <td><img src="/src/assets/thumbs/m3.png" alt="Image 1"></td>
+    <td><img src="/src/assets/thumbs/m5.png" alt="Image 1"></td>
+    <td><img src="/src/assets/thumbs/m6.png" alt="Image 1"></td>
+  </tr>
+  <tr>
+    <td><img src="/src/assets/thumbs/m7.png" alt="Image 1"></td>
+    <td><img src="/src/assets/thumbs/m8.png" alt="Image 1"></td>
+    <td><img src="/src/assets/thumbs/m9.png" alt="Image 1"></td>
+  </tr>
+</table>
 
 ## Technologies Used 🌌
 <table>
