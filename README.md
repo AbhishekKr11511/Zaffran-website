@@ -1,70 +1,83 @@
-# Getting Started with Create React App
+# Zaffran - Taste the Indo-Persian Fusion
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<table>
+  <tr>
+    <td><img src="/src/Assets/thumbs/1.png" alt="Image 1"></td>
+    <td><img src="/src/Assets/thumbs/2.png" alt="Image 2"></td>
+  </tr>
+  <tr>
+    <td><img src="/src/Assets/thumbs/3.png" alt="Image 3"></td>
+    <td><img src="/src/Assets/thumbs/5.png" alt="Image 4"></td>
+  </tr>
+</table>
 
-## Available Scripts
 
-In the project directory, you can run:
+## What is Cyber Assets ⚙ 🤔?
 
-### `npm start`
+Write your info here
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Features
+<ul>
+  <li>Feature 1</li>
+  <li>Feature 2</li>
+  <li>Feature 3</li>
+</ul>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<!-- This is where to explore about the features further:  -->
 
-### `npm test`
+### Feature 1
+<table>
+  <tr>
+    <td><img src="/src/Assets/thumbs/a.png" alt="Image a"></td>
+    <td><img src="/src/Assets/thumbs/c.png" alt="Image c"></td>
+  </tr>
+</table>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+### Feature 2
+<table>
+  <tr>
+    <td><img src="/src/Assets/thumbs/e.png" alt="Image e"></td>
+    <td><img src="/src/Assets/thumbs/d.png" alt="Image d"></td>
+  </tr>
+</table>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Feature 3
+<table>
+  <tr>
+    <td><img src="/src/Assets/thumbs/b.png" alt="Image b"></td>
+  </tr>
+  <tr>
+    <td><img src="/src/Assets/thumbs/7.png" alt="Image 7"></td>
+  </tr>
+</table>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+### Other Features
+<table>
+  <tr>
+    <td><img src="/src/Assets/thumbs/5.png" alt="Image 5"></td>
+    <td><img src="/src/Assets/thumbs/6.jpg" alt="Image 6"></td>
+  </tr>
+</table>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Technologies Used 🌌
+<table>
+  <tr>
+    <td><img src="/src/Assets/logos/react.png" alt="Image a"></td>
+    <td><img src="/src/Assets/logos/redux.png" alt="Image a"></td>
+    <td><img src="/src/Assets/logos/router.png" alt="Image a"></td>
+    <td><img src="/src/Assets/logos/ant.png" alt="Image a"></td>
+    <td><img src="/src/Assets/logos/rapid api.png" alt="Image a"></td>
+  </tr>
+</table>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Additional Dependencies Used 🌠☄
+<ul>
+  <li>Axios - For Fetching data</li>
+  <li>Chart.js - For Chart depiction</li>
+  <li>Dayjs - For fetching the Date and Time</li>
+  <li>Millify - For formatting large numbers in readable format</li>
+</ul>
