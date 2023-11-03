@@ -2,7 +2,7 @@
 
 .app__gallery-container{
     background: url('../../assets/colorful.png');
-    background-size:auto;
+    background-size:cover;
     animation: animatedBg 10s ease-in-out infinite alternate both;
 }
 @keyframes animatedBg {
